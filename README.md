@@ -1,4 +1,4 @@
-# gin-app-sql
+# gin-app-json
 
 ## Project setup
 ```
